@@ -1,0 +1,10 @@
+Copyright (c) 2025 Vishal
+
+All rights reserved.
+
+This software and its source code are proprietary to Vishal. No part of this
+software may be copied, modified, merged, published, distributed, sublicensed,
+or used in any commercial product without prior written permission from the author.
+
+You may view and clone this repository for personal evaluation purposes only.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
