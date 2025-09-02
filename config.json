@@ -1,0 +1,7 @@
+﻿{
+  "host": "127.0.0.1",
+  "port": 9001,
+  "data_dir": "./data",
+  "max_send_queue": 256,
+  "history_on_join": 20
+}
